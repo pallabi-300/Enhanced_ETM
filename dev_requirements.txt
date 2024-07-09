@@ -1,0 +1,7 @@
+joblib
+flake8
+pytest>=7.4
+autopep8
+bump2version
+twine
+notebook
